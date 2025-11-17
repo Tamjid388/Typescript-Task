@@ -1,6 +1,6 @@
 
 
-##### Provide an example of using union and intersection types in TypeScript.
+##### Ques1: Provide an example of using union and intersection types in TypeScript.
 
 **Answer:**
 ```ts 
@@ -23,7 +23,7 @@ type Staff = Person & Employee;
 ```
 
 
-#####  What is the use of the keyof keyword in TypeScript? Provide an example.
+##### Ques2: What is the use of the keyof keyword in TypeScript? Provide an example.
 
 
 **Answer:**
