@@ -1,5 +1,3 @@
-// Problem 1
-
 type Value = string | boolean | number;
 const formatValue = (value: Value) => {
   if (typeof value === "string") {
